@@ -111,7 +111,7 @@ app/src/main/java/com/starwords/floatingspeed/
 - **可见时启动前台服务**：规避 Android 15 对后台启动 FGS 的限制
 - **独立窗口生命周期**：`OverlayLifecycleOwner` 为 `WindowManager` 中的 `ComposeView` 补齐 Lifecycle / ViewModelStore / SavedStateRegistry 三个 owner
 
-更多细节见 [需求文档](需求文档.md) 与 [详细设计](详细设计.md)。
+更多实现细节以源代码为准；内部需求与设计文档不随仓库发布。
 
 ## 许可证
 

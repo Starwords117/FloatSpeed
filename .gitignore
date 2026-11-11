@@ -17,6 +17,10 @@ captures/
 # Local machine configuration
 local.properties
 
+# Internal documents (kept locally, not published)
+需求文档.md
+详细设计.md
+
 # Build outputs
 *.apk
 *.aab
