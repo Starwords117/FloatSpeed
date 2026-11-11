@@ -4,6 +4,14 @@
 
 > Android 8.0+（API 26）· Kotlin · Jetpack Compose · 前台服务（location）· 不联网
 
+## 下载
+
+已签名的 APK 见 [Releases](https://github.com/Starwords117/FloatSpeed/releases/latest)。下载后允许「安装未知来源应用」即可侧载安装，或使用：
+
+```bash
+adb install -r FloatSpeed-v0.1.0.apk
+```
+
 ## 功能
 
 - **悬浮速度窗**：半透明深色胶囊，仅显示速度数字与单位，默认约 120 × 64 dp

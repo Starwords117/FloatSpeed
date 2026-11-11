@@ -31,6 +31,7 @@ app/build/
 *.jks
 *.keystore
 !debug.keystore
+keystore.properties
 
 # OS files
 .DS_Store
